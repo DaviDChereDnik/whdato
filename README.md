@@ -10,5 +10,5 @@ It has 3 class:
   - *conts.py*: It contains all need const data for all classes.
   - *main.py*: Call all classes.
   
- If you want to run this program, you should run *main.py*.
+ If you want to run this program, you should run *main.py*, but before that you also should edit *const.py* to add your group id and access token.
   
