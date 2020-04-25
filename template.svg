@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 700 1000" width="700" height="1000">
+    <defs>
+        <path d="M0 0L700 0L700 1000L0 1000L0 0Z" id="eWjYppAmQ"></path><path d="M0 40.27L15.49 21.09L30.98 0" id="baZd0xu5t"></path><path d="M0 81.76L31.47 42.83L62.94 0" id="a1HNjXENg"></path><path d="M0 59.84L23.02 31.35L46.03 0" id="c1nIeNEPr"></path>
+        <path d="M346.54 81.76L354.75 81.76L354.75 915.01L346.54 915.01L346.54 81.76Z" id="i2AZK1F1fm"></path>
+        <text id="c3frvufH8c" x="350" y="50" font-size="36" font-weight="bold" alignment-baseline="before-edge" xml:space="preserve" dominant-baseline="text-before-edge">
+            <tspan id="date" x="350" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge" text-anchor="middle">11.11.1111</tspan>
+            <tspan x="230" y="990" font-size="12"
+            font-weight="normal">
+                © "Какой завтра день"
+            </tspan>
+        </text>
+        <text id="b8BaOHIe3" x="175" y="90" font-size="27" font-weight="bolder" alignment-baseline="before-edge" xml:space="preserve" dominant-baseline="text-before-edge">
+            <tspan x="175" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge" text-anchor="middle">ПРАЗДНИКИ</tspan>
+        </text>
+        <text id="dxaU76NEr" x="525" y="90" font-size="27" font-weight="bolder" alignment-baseline="before-edge" xml:space="preserve" dominant-baseline="text-before-edge">
+            <tspan x="525" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge" text-anchor="middle">СОБЫТИЯ</tspan>
+        </text>
+        <text class="celebrations_text" id="c2wkfZaeI2" x="20" y="120" font-size="14" font-weight="lighter" alignment-baseline="before-edge" xml:space="preserve" dominant-baseline="text-before-edge" text-anchor="start"></text>
+        <text class="events_text" id="abAPLuJXz" x="680" y="120" font-size="14" font-weight="lighter" alignment-baseline="before-edge" xml:space="preserve" dominant-baseline="text-before-edge" text-anchor="end"></text>
+        <path d="M700 959.73L684.51 978.91L669.02 1000" id="b1KvsBAOzc"></path>
+        <path d="M700 918.24L668.53 957.17L637.06 1000" id="c3A7QvlmII"></path>
+        <path d="M700 940.16L676.98 968.65L653.97 1000" id="f1V5YE5C3x"></path>
+        <style type="text/css">
+            @font-face {
+                font-family: "OpenSans";
+                src: url("/.fonts/OpenSans.ttf");
+            }
+
+            text {
+                font-family: "OpenSans";
+                font-style: normal;
+                letter-spacing: 0;
+                line-height: 100%;
+            }
+        </style>
+    </defs>
+    <g><g><g><use xlink:href="#eWjYppAmQ" opacity="1" fill="#fff1e0" fill-opacity="1"></use></g><g><g><use xlink:href="#baZd0xu5t" opacity="1" fill-opacity="0" stroke="#4aff43" stroke-width="3" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#a1HNjXENg" opacity="1" fill-opacity="0" stroke="#43abff" stroke-width="3" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#c1nIeNEPr" opacity="1" fill-opacity="0" stroke="#43ffdc" stroke-width="3" stroke-opacity="1"></use></g></g><g id="a1aaYMQ5mR"><use xlink:href="#c3frvufH8c" opacity="1" fill="#1e273e" fill-opacity="1"></use></g><g><use xlink:href="#i2AZK1F1fm" opacity="1" fill="#263f42" fill-opacity="1"></use></g><g id="b3PhY2itPE"><use xlink:href="#b8BaOHIe3" opacity="1" fill="#200772" fill-opacity="1"></use></g><g id="a41fczyzu"><use xlink:href="#dxaU76NEr" opacity="1" fill="#200772" fill-opacity="1"></use></g><g id="cibmPKJ0E"><use xlink:href="#c2wkfZaeI2" opacity="1" fill="#48036F" fill-opacity="1"></use></g><g id="abqUyScHO"><use xlink:href="#abAPLuJXz" opacity="1" fill="#48036F" fill-opacity="1"></use></g><g><g><use xlink:href="#b1KvsBAOzc" opacity="1" fill-opacity="0" stroke="#4aff43" stroke-width="3" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#c3A7QvlmII" opacity="1" fill-opacity="0" stroke="#43abff" stroke-width="3" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#f1V5YE5C3x" opacity="1" fill-opacity="0" stroke="#43ffdc" stroke-width="3" stroke-opacity="1"></use></g></g></g></g></svg>

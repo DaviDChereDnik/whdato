@@ -1,0 +1,11 @@
+beautifulsoup4==4.7.1
+bs4==0.0.1
+cairocffi==1.0.2
+CairoSVG==2.4.0
+lxml==4.3.1
+Pillow==6.1.0
+pycairo==1.18.0
+requests==2.21.0
+vk-api==11.5.0
+gunicorn==19.9.0
+flask==1.1.1
